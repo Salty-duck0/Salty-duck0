@@ -1,5 +1,11 @@
 <h1 align="center">Hey! I'm Nitish</h1>
 
+<h2>About Me</h2>
+
+- 🌍 Location: Delhi, India
+- 💼 Current Position: Passionate about Technical Content Writer and Open Source Contributor
+- 🎓 Education: Sophomore Student in Information Technology and Mathematics at Cluster Innovation Center,Delhi University
+- 🌱 I'm currently learning: Deep Learning,Web development.
 
 - 👨‍💻 Most of my projects are available at [my portfolio]()
 
