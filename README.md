@@ -3,7 +3,7 @@
 
 - 👨‍💻 Most of my projects are available at [my portfolio]()
 
-- 📫 Reach me at **abhinavpainuli221b@gmail.com**
+- 📫 Reach me at **nitishsingla159@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
