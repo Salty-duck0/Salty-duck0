@@ -1,5 +1,4 @@
 <h1 align="center">Hey! I'm Nitish</h1>
-<h3 align="center">A passionate(❓) Data Science Enthusiast</h3>
 
 
 - 👨‍💻 Most of my projects are available at [my portfolio]()
