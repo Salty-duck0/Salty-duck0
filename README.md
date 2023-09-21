@@ -1,14 +1,14 @@
-<h1 align="center">Hey! I'm Abhinav</h1>
+<h1 align="center">Hey! I'm Nitish</h1>
 <h3 align="center">A passionate(❓) Data Science Enthusiast</h3>
 
 
-- 👨‍💻 Most of my projects are available at [my portfolio](https://github.com/wannasleepforlong/Data-Science-Portfolio)
+- 👨‍💻 Most of my projects are available at [my portfolio]()
 
 - 📫 Reach me at **abhinavpainuli221b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wannasleepforlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wannasleepforlong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Salty-duck0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Salty-duck0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wannasleepforlong&" alt="wannasleepforlong" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannasleepforlong)](https://github.com/anuraghazra/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannasleepforlong)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salty-duck0)](https://github.com/anuraghazra/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salty-duck0)](https://github.com/anuraghazra/github-readme-stats)
 
