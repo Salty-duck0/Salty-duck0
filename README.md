@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 
 - 🌍 Location: Delhi, India
-- 🎓 Education: Sophomore Student in Information Technology and Mathematics at Cluster Innovation Center, Delhi University
+- 🎓 Education: Student in Information Technology and Mathematics at Cluster Innovation Center, Delhi University
 - 🌱 I'm currently learning: Deep Learning and web development.
 
 - 👨‍💻 Most of my projects are available at [my portfolio]()
